@@ -1,4 +1,4 @@
-# GH2LLP
+# Custom Cheats
  
 Hyperspeed: SELECT, SELECT
 
