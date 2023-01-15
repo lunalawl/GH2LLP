@@ -1,7 +1,7 @@
 (splash_anybutton
-   "AMBATUKAM")
+   "LUNALAWL PATCH")
 (splash_legal
-   "No strum limit, overlapping star power, fast start, and Rock Band guitar support modifications by MiloHax. Additional patches by lunalawl.")
+   "No strum limit, overlapping star power, fast start, and Rock Band guitar support modifications by MiloHax. Additional patches and script modifications by lunalawl.")
 (signin_changed_title
    "SIGN-IN CHANGED")
 (signin_changed_msg
@@ -11,9 +11,9 @@
 (sigin_to_live_msg
    "It is a serious crime to copy video games according to copyright law. Power off your Xbox 360 immediately.")
 (guitar_help_using
-   "USING THE GUITAR CONTROLLER")
+   "NEW HYPERSPEED CHEAT")
 (guitar_help_plugin
-   "Plug in the Guitar Controller and attach the guitar strap.")
+   "Press SELECT SELECT in the main menu to enable hyperspeed.")
 (guitar_help_continue1
    "Continue")
 (guitar_help_continue2
@@ -271,17 +271,17 @@
 (Venue
    "VENUE")
 (cheat_enabled_fmt
-   "CHEAT ENABLED:\n%s")
+   "%s ENABLED!")
 (cheat_disabled_fmt
-   "CHEAT DISABLED:\n%s")
+   "%s DISABLED")
 (cheat_unlock_all
-   "Unlock All (saving disabled)")
+   "Unlock Everything")
 (cheat_air_guitar
    "Air Guitar")
 (cheat_performance_mode
    "Performance Mode")
 (cheat_hyper_speed_mode
-   "Hyper Speed")
+   "Hyperspeed")
 (cheat_horse_head_mode
    "Horse Head")
 (cheat_flaming_head
